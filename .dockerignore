@@ -1,0 +1,14 @@
+.git
+.gitmodules
+.gitignore
+.vs
+*.user
+*.suo
+**/obj/
+**/bin/
+.dockerignore
+README.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+LICENSE
+dms-roles.yaml
